@@ -6,7 +6,7 @@
 # NewsSeach API 
 ### News Filter and Search by Ciaran Slow
 
-An accomodation finder for finding accomodation near NZ Ski Fields.
+A news search Web App that allows users to search and filter the latest news.
 
 The project is a Summative Web Dev project for Yoobee Colleges Wellington.
 
